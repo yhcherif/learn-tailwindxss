@@ -1,0 +1,2 @@
+#Primary : #595BD4
+#Secondary : #5A9DEA
